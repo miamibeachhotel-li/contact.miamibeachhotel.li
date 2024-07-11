@@ -45,7 +45,7 @@ header {
 
 .normal-tmp-headers a:link, a:visited, a:active {
     text-decoration: none;
-    color:rgb(0, 21, 255);
+    color: #555;
     border: none;
     border-top: 300px;
     
