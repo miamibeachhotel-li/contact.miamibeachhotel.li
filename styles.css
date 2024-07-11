@@ -20,6 +20,41 @@ header {
     justify-content: center;
 }
 
+.normal-tmp-headers nav {
+    margin-top: 10px;
+    text-align: center;
+
+}
+.normal-tmp-headers h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
+    color:inherit;
+    margin-top: 70px;
+    margin-bottom: 10px;
+
+}
+
+.normal-tmp-headers h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    color:inherit;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.normal-tmp-headers a:link, a:visited, a:active {
+    text-decoration: none;
+    color:rgb(0, 21, 255);
+    border: none;
+    border-top: 300px;
+    
+}
+
+.normal-tmp-headers a:hover {
+    border: 5px blue solid;
+}
+
 img {
     max-height: 270px; 
 }
