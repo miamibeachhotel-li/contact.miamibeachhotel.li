@@ -52,7 +52,7 @@ header {
 }
 
 .normal-tmp-headers a:hover {
-    border: 5px blue solid;
+    border: 5px #555 solid;
 }
 
 img {
